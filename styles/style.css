@@ -1,0 +1,31 @@
+
+body
+{
+    background-color:  #111827;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.image
+{
+    align-items: center;
+    width: 500px;
+    height: auto;
+}
+div 
+{
+    text-align: left;
+    
+}
+
+a
+{
+
+    color: green;
+}
+.lists
+{
+    display: table;
+    margin: auto;
+}
